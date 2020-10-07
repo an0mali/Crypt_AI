@@ -1,0 +1,71 @@
+
+
+ *** BEGIN AUTOTUNE FOR ATTRIBUTE usddisbursechangerate *** 
+
+!!!AUTOTUNE!!!
+Testing: usddisbursechangerate
+>> Attribute value: 110
+30 turn average: 
+5.4 (USD)
+11.5 (BTC) 
+ Max loss USD: -1.256625 Max loss BTC: 4.48672
+Gain Count: 28 Loss Count: 2 Fail Rate: 6
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -0.73 
+
+!!!AUTOTUNE!!!
+Testing: usddisbursechangerate
+>> Attribute value: 132.0
+30 turn average: 
+4.27 (USD)
+10.4 (BTC) 
+ Max loss USD: -1.627689 Max loss BTC: 4.09408
+Gain Count: 29 Loss Count: 1 Fail Rate: 3
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.63 
+
+!!!AUTOTUNE!!!
+Testing: usddisbursechangerate
+>> Attribute value: 88.0
+30 turn average: 
+6.23 (USD)
+12.4 (BTC) 
+ Max loss USD: 0.06772 Max loss BTC: 5.88810
+Gain Count: 30 Loss Count: 0 Fail Rate: 0
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: 0 
+
+!!!AUTOTUNE!!!
+Testing: usddisbursechangerate
+>> Attribute value: 83.6
+30 turn average: 
+6.3 (USD)
+12.4 (BTC) 
+ Max loss USD: -2.774814 Max loss BTC: 2.88023
+Gain Count: 29 Loss Count: 1 Fail Rate: 3
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -2.77 
+
+!!!AUTOTUNE!!!
+Testing: usddisbursechangerate
+>> Attribute value: 79.19999999999999
+30 turn average: 
+5.5 (USD)
+11.7 (BTC) 
+ Max loss USD: -1.730063 Max loss BTC: 3.98575
+Gain Count: 28 Loss Count: 2 Fail Rate: 6
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.06 
+
+!!!AUTOTUNE!!!
+Testing: usddisbursechangerate
+>> Attribute value: 87.99999999999999
+30 turn average: 
+4.8 (USD)
+10.8 (BTC) 
+ Max loss USD: -1.900608 Max loss BTC: 3.85155
+Gain Count: 27 Loss Count: 3 Fail Rate: 10
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.90 
+
+
+Best variable for attribute "usddisbursechangerate" determined: 83.6
+Total run time: 144.856558938821166293564601801335811614990234375 (min) / 2.4143 (hrs)
+AI Variables File ID: 9387329599
+
+ *** END AUTOTUNE FOR ATTRIBUTE *** 
+

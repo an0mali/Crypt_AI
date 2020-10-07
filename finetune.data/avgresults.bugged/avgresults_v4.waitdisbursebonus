@@ -1,0 +1,61 @@
+
+
+ *** BEGIN AUTOTUNE FOR ATTRIBUTE waitdisbursebonus *** 
+
+!!!AUTOTUNE!!!
+Testing: waitdisbursebonus
+>> Attribute value: 1.704
+30 turn average: 
+5.8 (USD)
+12.0 (BTC) 
+ Max loss USD: -3.186235 Max loss BTC: 2.44488
+Gain Count: 29 Loss Count: 1 Fail Rate: 3
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -3.19 
+
+!!!AUTOTUNE!!!
+Testing: waitdisbursebonus
+>> Attribute value: 2.0448
+30 turn average: 
+4.53 (USD)
+10.6 (BTC) 
+ Max loss USD: -0.936878 Max loss BTC: 4.82507
+Gain Count: 28 Loss Count: 2 Fail Rate: 6
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -0.70 
+
+!!!AUTOTUNE!!!
+Testing: waitdisbursebonus
+>> Attribute value: 1.3632
+30 turn average: 
+5.7 (USD)
+11.8 (BTC) 
+ Max loss USD: 0.02583 Max loss BTC: 5.84378
+Gain Count: 30 Loss Count: 0 Fail Rate: 0
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: 0 
+
+!!!AUTOTUNE!!!
+Testing: waitdisbursebonus
+>> Attribute value: 1.29504
+30 turn average: 
+5.23 (USD)
+11.3 (BTC) 
+ Max loss USD: -2.883156 Max loss BTC: 2.81138
+Gain Count: 27 Loss Count: 3 Fail Rate: 10
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -2.88 
+
+!!!AUTOTUNE!!!
+Testing: waitdisbursebonus
+>> Attribute value: 1.43136
+30 turn average: 
+5.1 (USD)
+11.2 (BTC) 
+ Max loss USD: -0.296502 Max loss BTC: 5.50269
+Gain Count: 29 Loss Count: 1 Fail Rate: 3
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -0.297 
+
+
+Best variable for attribute "waitdisbursebonus" determined: 1.704
+Total run time: 125.9988826910654751145557384006679058074951171875 (min) / 2.1000 (hrs)
+AI Variables File ID: 9128799463
+
+ *** END AUTOTUNE FOR ATTRIBUTE *** 
+

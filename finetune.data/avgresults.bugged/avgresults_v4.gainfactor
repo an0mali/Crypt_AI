@@ -1,0 +1,71 @@
+
+
+ *** BEGIN AUTOTUNE FOR ATTRIBUTE gainfactor *** 
+
+!!!AUTOTUNE!!!
+Testing: gainfactor
+>> Attribute value: 15
+30 turn average: 
+4.53 (USD)
+10.6 (BTC) 
+ Max loss USD: -2.100074 Max loss BTC: 3.59422
+Gain Count: 28 Loss Count: 2 Fail Rate: 6
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -2.10 
+
+!!!AUTOTUNE!!!
+Testing: gainfactor
+>> Attribute value: 18.0
+30 turn average: 
+5.3 (USD)
+11.5 (BTC) 
+ Max loss USD: -3.527557 Max loss BTC: 2.08370
+Gain Count: 28 Loss Count: 2 Fail Rate: 6
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -3.53 
+
+!!!AUTOTUNE!!!
+Testing: gainfactor
+>> Attribute value: 21.0
+30 turn average: 
+5.23 (USD)
+11.4 (BTC) 
+ Max loss USD: -0.385324 Max loss BTC: 5.45568
+Gain Count: 29 Loss Count: 1 Fail Rate: 3
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -0.385 
+
+!!!AUTOTUNE!!!
+Testing: gainfactor
+>> Attribute value: 19.8
+30 turn average: 
+4.97 (USD)
+11.0 (BTC) 
+ Max loss USD: -0.391717 Max loss BTC: 5.40194
+Gain Count: 29 Loss Count: 1 Fail Rate: 3
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -0.392 
+
+!!!AUTOTUNE!!!
+Testing: gainfactor
+>> Attribute value: 20.28
+30 turn average: 
+5.8 (USD)
+12 (BTC) 
+ Max loss USD: 0.92248 Max loss BTC: 6.79258
+Gain Count: 30 Loss Count: 0 Fail Rate: 0
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: 0 
+
+!!!AUTOTUNE!!!
+Testing: gainfactor
+>> Attribute value: 20.376
+30 turn average: 
+5.83 (USD)
+12.0 (BTC) 
+ Max loss USD: -3.198150 Max loss BTC: 2.43227
+Gain Count: 29 Loss Count: 1 Fail Rate: 3
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -3.20 
+
+
+Best variable for attribute "gainfactor" determined: 20.28
+Total run time: 152.74638117551802451998810283839702606201171875 (min) / 2.5458 (hrs)
+AI Variables File ID: 1275530910
+
+ *** END AUTOTUNE FOR ATTRIBUTE *** 
+

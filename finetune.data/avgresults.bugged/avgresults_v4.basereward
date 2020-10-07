@@ -1,0 +1,81 @@
+
+
+ *** BEGIN AUTOTUNE FOR ATTRIBUTE basereward *** 
+
+!!!AUTOTUNE!!!
+Testing: basereward
+>> Attribute value: 57.2
+30 turn average: 
+4.57 (USD)
+10.7 (BTC) 
+ Max loss USD: -0.959645 Max loss BTC: 4.76364
+Gain Count: 28 Loss Count: 2 Fail Rate: 6
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -0.481 
+
+!!!AUTOTUNE!!!
+Testing: basereward
+>> Attribute value: 68.64
+30 turn average: 
+4.9 (USD)
+11.0 (BTC) 
+ Max loss USD: -3.152935 Max loss BTC: 2.48012
+Gain Count: 29 Loss Count: 1 Fail Rate: 3
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -3.15 
+
+!!!AUTOTUNE!!!
+Testing: basereward
+>> Attribute value: 80.08
+30 turn average: 
+5.9 (USD)
+12.1 (BTC) 
+ Max loss USD: -1.205191 Max loss BTC: 4.54115
+Gain Count: 29 Loss Count: 1 Fail Rate: 3
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.21 
+
+!!!AUTOTUNE!!!
+Testing: basereward
+>> Attribute value: 82.368
+30 turn average: 
+5.47 (USD)
+11.6 (BTC) 
+ Max loss USD: -0.168684 Max loss BTC: 5.63794
+Gain Count: 29 Loss Count: 1 Fail Rate: 3
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -0.169 
+
+!!!AUTOTUNE!!!
+Testing: basereward
+>> Attribute value: 77.792
+30 turn average: 
+5 (USD)
+11.1 (BTC) 
+ Max loss USD: -0.304905 Max loss BTC: 5.45622
+Gain Count: 29 Loss Count: 1 Fail Rate: 3
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -0.305 
+
+!!!AUTOTUNE!!!
+Testing: basereward
+>> Attribute value: 79.6224
+30 turn average: 
+5.57 (USD)
+11.7 (BTC) 
+ Max loss USD: -1.409031 Max loss BTC: 4.32545
+Gain Count: 28 Loss Count: 2 Fail Rate: 6
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.41 
+
+!!!AUTOTUNE!!!
+Testing: basereward
+>> Attribute value: 79.98848
+30 turn average: 
+5.47 (USD)
+11.5 (BTC) 
+ Max loss USD: 0.22908 Max loss BTC: 6.05884
+Gain Count: 30 Loss Count: 0 Fail Rate: 0
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: 0 
+
+
+Best variable for attribute "basereward" determined: 80.08
+Total run time: 185.951116339365654539506067521870136260986328125 (min) / 3.0992 (hrs)
+AI Variables File ID: 1164256439
+
+ *** END AUTOTUNE FOR ATTRIBUTE *** 
+

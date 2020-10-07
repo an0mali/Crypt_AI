@@ -1,0 +1,142 @@
+
+
+ *** BEGIN AUTOTUNE FOR ATTRIBUTE learningthresh *** 
+
+!!!AUTOTUNE!!!
+Testing: learningthresh
+>> Attribute value: 0.003736
+40 turn average: 
+4.72 (USD)
+10.8 (BTC) 
+ Max loss USD: -5.037888 Max loss BTC: 0.44973
+Gain Count: 34 Loss Count: 6 Fail Rate: 15
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -3.33 
+
+!!!AUTOTUNE!!!
+Testing: learningthresh
+>> Attribute value: 0.0046700000000000005
+40 turn average: 
+4.45 (USD)
+10.5 (BTC) 
+ Max loss USD: -2.436261 Max loss BTC: 3.23847
+Gain Count: 31 Loss Count: 9 Fail Rate: 22
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -2.42 
+
+!!!AUTOTUNE!!!
+Testing: learningthresh
+>> Attribute value: 0.0028020000000000007
+40 turn average: 
+6.68 (USD)
+12.8 (BTC) 
+ Max loss USD: -4.241801 Max loss BTC: 1.37307
+Gain Count: 36 Loss Count: 4 Fail Rate: 10
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -3.5 
+
+!!!AUTOTUNE!!!
+Testing: learningthresh
+>> Attribute value: 0.0025685000000000005
+40 turn average: 
+5.32 (USD)
+11.4 (BTC) 
+ Max loss USD: -2.980431 Max loss BTC: 2.66265
+Gain Count: 34 Loss Count: 6 Fail Rate: 15
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.98 
+
+!!!AUTOTUNE!!!
+Testing: learningthresh
+>> Attribute value: 0.0030355000000000004
+40 turn average: 
+5.22 (USD)
+11.3 (BTC) 
+ Max loss USD: -3.319117 Max loss BTC: 2.34986
+Gain Count: 35 Loss Count: 5 Fail Rate: 12
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -2.78 
+
+
+Best variable for attribute "learningthresh" determined: 0.0028020000000000007
+Total run time: 173.1075094858805414332891814410686492919921875 (min) / 2.8851 (hrs)
+AI Variables File ID: 4718384064
+
+ *** END AUTOTUNE FOR ATTRIBUTE *** 
+
+
+
+ *** BEGIN AUTOTUNE FOR ATTRIBUTE learningthresh *** 
+
+!!!AUTOTUNE!!!
+Testing: learningthresh
+>> Attribute value: 0.0028020000000000007
+30 turn average: 
+4.83 (USD)
+10.9 (BTC) 
+ Max loss USD: -0.977900 Max loss BTC: 4.78166
+Gain Count: 29 Loss Count: 1 Fail Rate: 3
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -0.978 
+
+!!!AUTOTUNE!!!
+Testing: learningthresh
+>> Attribute value: 0.0033624000000000006
+30 turn average: 
+5.5 (USD)
+11.6 (BTC) 
+ Max loss USD: 0.22667 Max loss BTC: 6.10356
+Gain Count: 30 Loss Count: 0 Fail Rate: 0
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: 0 
+
+!!!AUTOTUNE!!!
+Testing: learningthresh
+>> Attribute value: 0.003922800000000001
+30 turn average: 
+5.13 (USD)
+11.3 (BTC) 
+ Max loss USD: -4.407435 Max loss BTC: 1.15265
+Gain Count: 28 Loss Count: 2 Fail Rate: 6
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -3.64 
+
+!!!AUTOTUNE!!!
+Testing: learningthresh
+>> Attribute value: 0.0036986400000000004
+30 turn average: 
+6.23 (USD)
+12.4 (BTC) 
+ Max loss USD: -4.137194 Max loss BTC: 1.40247
+Gain Count: 27 Loss Count: 3 Fail Rate: 10
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -4.13 
+
+!!!AUTOTUNE!!!
+Testing: learningthresh
+>> Attribute value: 0.0036538080000000006
+30 turn average: 
+5.83 (USD)
+12.0 (BTC) 
+ Max loss USD: -0.848307 Max loss BTC: 4.91879
+Gain Count: 29 Loss Count: 1 Fail Rate: 3
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -0.848 
+
+!!!AUTOTUNE!!!
+Testing: learningthresh
+>> Attribute value: 0.0037434720000000007
+30 turn average: 
+6.77 (USD)
+13.1 (BTC) 
+ Max loss USD: -0.558873 Max loss BTC: 5.22506
+Gain Count: 29 Loss Count: 1 Fail Rate: 3
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -0.559 
+
+!!!AUTOTUNE!!!
+Testing: learningthresh
+>> Attribute value: 0.0037614048000000006
+30 turn average: 
+4.6 (USD)
+10.8 (BTC) 
+ Max loss USD: -3.195934 Max loss BTC: 2.43462
+Gain Count: 25 Loss Count: 5 Fail Rate: 16
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -3.2 
+
+
+Best variable for attribute "learningthresh" determined: 0.0037434720000000007
+Total run time: 204.919652958710997836533351801335811614990234375 (min) / 3.4153 (hrs)
+AI Variables File ID: 162029775
+
+ *** END AUTOTUNE FOR ATTRIBUTE *** 
+

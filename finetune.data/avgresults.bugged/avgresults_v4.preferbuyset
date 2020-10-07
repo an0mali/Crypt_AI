@@ -1,0 +1,71 @@
+
+
+ *** BEGIN AUTOTUNE FOR ATTRIBUTE preferbuyset *** 
+
+!!!AUTOTUNE!!!
+Testing: preferbuyset
+>> Attribute value: 48
+30 turn average: 
+4.4 (USD)
+10.4 (BTC) 
+ Max loss USD: -2.085105 Max loss BTC: 3.65623
+Gain Count: 27 Loss Count: 3 Fail Rate: 10
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.65 
+
+!!!AUTOTUNE!!!
+Testing: preferbuyset
+>> Attribute value: 57.6
+30 turn average: 
+4.67 (USD)
+10.7 (BTC) 
+ Max loss USD: -3.541076 Max loss BTC: 2.11489
+Gain Count: 28 Loss Count: 2 Fail Rate: 6
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -2.19 
+
+!!!AUTOTUNE!!!
+Testing: preferbuyset
+>> Attribute value: 67.2
+30 turn average: 
+5.77 (USD)
+12.0 (BTC) 
+ Max loss USD: -2.512679 Max loss BTC: 3.20359
+Gain Count: 29 Loss Count: 1 Fail Rate: 3
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -2.51 
+
+!!!AUTOTUNE!!!
+Testing: preferbuyset
+>> Attribute value: 69.12
+30 turn average: 
+5.57 (USD)
+11.7 (BTC) 
+ Max loss USD: -0.124958 Max loss BTC: 5.68421
+Gain Count: 29 Loss Count: 1 Fail Rate: 3
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -0.125 
+
+!!!AUTOTUNE!!!
+Testing: preferbuyset
+>> Attribute value: 65.28
+30 turn average: 
+6.2 (USD)
+12.3 (BTC) 
+ Max loss USD: 0.22734 Max loss BTC: 6.05700
+Gain Count: 30 Loss Count: 0 Fail Rate: 0
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: 0 
+
+!!!AUTOTUNE!!!
+Testing: preferbuyset
+>> Attribute value: 64.512
+30 turn average: 
+5.43 (USD)
+11.5 (BTC) 
+ Max loss USD: -0.953377 Max loss BTC: 4.80761
+Gain Count: 29 Loss Count: 1 Fail Rate: 3
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -0.953 
+
+
+Best variable for attribute "preferbuyset" determined: 65.28
+Total run time: 133.680843011538200926224817521870136260986328125 (min) / 2.2280 (hrs)
+AI Variables File ID: 1087167354
+
+ *** END AUTOTUNE FOR ATTRIBUTE *** 
+

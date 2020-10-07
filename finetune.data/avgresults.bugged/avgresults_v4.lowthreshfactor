@@ -1,0 +1,61 @@
+
+
+ *** BEGIN AUTOTUNE FOR ATTRIBUTE lowthreshfactor *** 
+
+!!!AUTOTUNE!!!
+Testing: lowthreshfactor
+>> Attribute value: 0.0915
+30 turn average: 
+5.53 (USD)
+11.7 (BTC) 
+ Max loss USD: -3.672853 Max loss BTC: 1.92996
+Gain Count: 27 Loss Count: 3 Fail Rate: 10
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -3.67 
+
+!!!AUTOTUNE!!!
+Testing: lowthreshfactor
+>> Attribute value: 0.1098
+30 turn average: 
+5.6 (USD)
+11.8 (BTC) 
+ Max loss USD: -3.106832 Max loss BTC: 2.52890
+Gain Count: 27 Loss Count: 3 Fail Rate: 10
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.39 
+
+!!!AUTOTUNE!!!
+Testing: lowthreshfactor
+>> Attribute value: 0.1281
+30 turn average: 
+4.87 (USD)
+11.0 (BTC) 
+ Max loss USD: -1.419706 Max loss BTC: 4.31416
+Gain Count: 28 Loss Count: 2 Fail Rate: 6
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.26 
+
+!!!AUTOTUNE!!!
+Testing: lowthreshfactor
+>> Attribute value: 0.12078
+30 turn average: 
+4.67 (USD)
+10.7 (BTC) 
+ Max loss USD: -1.362609 Max loss BTC: 4.42109
+Gain Count: 28 Loss Count: 2 Fail Rate: 6
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.36 
+
+!!!AUTOTUNE!!!
+Testing: lowthreshfactor
+>> Attribute value: 0.123708
+30 turn average: 
+4.17 (USD)
+10.2 (BTC) 
+ Max loss USD: -2.655191 Max loss BTC: 2.97012
+Gain Count: 26 Loss Count: 4 Fail Rate: 13
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -2.65 
+
+
+Best variable for attribute "lowthreshfactor" determined: 0.1098
+Total run time: 135.202893340587621651138761080801486968994140625 (min) / 2.2534 (hrs)
+AI Variables File ID: 2490898575
+
+ *** END AUTOTUNE FOR ATTRIBUTE *** 
+

@@ -1,0 +1,71 @@
+
+
+ *** BEGIN AUTOTUNE FOR ATTRIBUTE baserestore *** 
+
+!!!AUTOTUNE!!!
+Testing: baserestore
+>> Attribute value: 0
+30 turn average: 
+4.87 (USD)
+11.0 (BTC) 
+ Max loss USD: 0.02032 Max loss BTC: 5.83795
+Gain Count: 30 Loss Count: 0 Fail Rate: 0
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: 0 
+
+!!!AUTOTUNE!!!
+Testing: baserestore
+>> Attribute value: 0.0
+30 turn average: 
+4.6 (USD)
+10.7 (BTC) 
+ Max loss USD: -0.947554 Max loss BTC: 4.81377
+Gain Count: 27 Loss Count: 3 Fail Rate: 10
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -0.70 
+
+!!!AUTOTUNE!!!
+Testing: baserestore
+>> Attribute value: 0.0
+30 turn average: 
+4.9 (USD)
+11 (BTC) 
+ Max loss USD: -3.11600 Max loss BTC: 2.51920
+Gain Count: 28 Loss Count: 2 Fail Rate: 6
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -3.12 
+
+!!!AUTOTUNE!!!
+Testing: baserestore
+>> Attribute value: 0.0
+30 turn average: 
+4.77 (USD)
+10.8 (BTC) 
+ Max loss USD: -0.758783 Max loss BTC: 5.04754
+Gain Count: 28 Loss Count: 2 Fail Rate: 6
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -0.745 
+
+!!!AUTOTUNE!!!
+Testing: baserestore
+>> Attribute value: 0.0
+30 turn average: 
+5.63 (USD)
+11.8 (BTC) 
+ Max loss USD: -0.706570 Max loss BTC: 5.06877
+Gain Count: 27 Loss Count: 3 Fail Rate: 10
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -0.683 
+
+!!!AUTOTUNE!!!
+Testing: baserestore
+>> Attribute value: 0.0
+30 turn average: 
+4.93 (USD)
+11.1 (BTC) 
+ Max loss USD: -2.107391 Max loss BTC: 3.58647
+Gain Count: 29 Loss Count: 1 Fail Rate: 3
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -2.11 
+
+
+Best variable for attribute "baserestore" determined: 0.0
+Total run time: 155.700351381301885567154386080801486968994140625 (min) / 2.5950 (hrs)
+AI Variables File ID: 4643110743
+
+ *** END AUTOTUNE FOR ATTRIBUTE *** 
+

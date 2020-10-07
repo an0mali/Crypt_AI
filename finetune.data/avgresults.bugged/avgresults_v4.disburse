@@ -1,0 +1,182 @@
+
+
+ *** BEGIN AUTOTUNE FOR ATTRIBUTE disburse *** 
+
+!!!AUTOTUNE!!!
+Testing: disburse
+>> Attribute value: 0.03
+40 turn average: 
+2.16 (USD)
+8.1 (BTC) 
+ Max loss USD: -2.312161 Max loss BTC: 3.41586
+Gain Count: 34 Loss Count: 6 Fail Rate: 15
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -2.0 
+
+!!!AUTOTUNE!!!
+Testing: disburse
+>> Attribute value: 0.0375
+40 turn average: 
+4.35 (USD)
+10.5 (BTC) 
+ Max loss USD: -1.187422 Max loss BTC: 4.60655
+Gain Count: 38 Loss Count: 2 Fail Rate: 5
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.15 
+
+!!!AUTOTUNE!!!
+Testing: disburse
+>> Attribute value: 0.045
+40 turn average: 
+4.75 (USD)
+10.9 (BTC) 
+ Max loss USD: 0.32036 Max loss BTC: 6.15543
+Gain Count: 40 Loss Count: 0 Fail Rate: 0
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: 0 
+
+!!!AUTOTUNE!!!
+Testing: disburse
+>> Attribute value: 0.046875
+40 turn average: 
+5.22 (USD)
+11.4 (BTC) 
+ Max loss USD: -2.354209 Max loss BTC: 3.32530
+Gain Count: 38 Loss Count: 2 Fail Rate: 5
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -2.35 
+
+!!!AUTOTUNE!!!
+Testing: disburse
+>> Attribute value: 0.04875
+40 turn average: 
+5.58 (USD)
+11.7 (BTC) 
+ Max loss USD: -0.125789 Max loss BTC: 5.73043
+Gain Count: 39 Loss Count: 1 Fail Rate: 2
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -0.126 
+
+!!!AUTOTUNE!!!
+Testing: disburse
+>> Attribute value: 0.050625
+40 turn average: 
+6.5 (USD)
+12.8 (BTC) 
+ Max loss USD: -2.085903 Max loss BTC: 3.65539
+Gain Count: 39 Loss Count: 1 Fail Rate: 2
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -2.09 
+
+!!!AUTOTUNE!!!
+Testing: disburse
+>> Attribute value: 0.052500000000000005
+40 turn average: 
+4.75 (USD)
+10.9 (BTC) 
+ Max loss USD: -4.426716 Max loss BTC: 1.13225
+Gain Count: 38 Loss Count: 2 Fail Rate: 5
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -3.10 
+
+!!!AUTOTUNE!!!
+Testing: disburse
+>> Attribute value: 0.04875
+40 turn average: 
+5.1 (USD)
+11.2 (BTC) 
+ Max loss USD: -1.986143 Max loss BTC: 3.76100
+Gain Count: 39 Loss Count: 1 Fail Rate: 2
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.99 
+
+!!!AUTOTUNE!!!
+Testing: disburse
+>> Attribute value: 0.0478125
+40 turn average: 
+4.42 (USD)
+10.4 (BTC) 
+ Max loss USD: -1.711791 Max loss BTC: 4.00508
+Gain Count: 35 Loss Count: 5 Fail Rate: 12
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.71 
+
+
+Best variable for attribute "disburse" determined: 0.050625
+Total run time: 341.35727771123248430740204639732837677001953125 (min) / 5.6893 (hrs)
+AI Variables File ID: 5666154455
+
+ *** END AUTOTUNE FOR ATTRIBUTE *** 
+
+
+
+ *** BEGIN AUTOTUNE FOR ATTRIBUTE disburse *** 
+
+!!!AUTOTUNE!!!
+Testing: disburse
+>> Attribute value: 0.050625
+30 turn average: 
+5.77 (USD)
+12.0 (BTC) 
+ Max loss USD: 0.41327 Max loss BTC: 6.25375
+Gain Count: 30 Loss Count: 0 Fail Rate: 0
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: 0 
+
+!!!AUTOTUNE!!!
+Testing: disburse
+>> Attribute value: 0.060750000000000005
+30 turn average: 
+5.8 (USD)
+11.9 (BTC) 
+ Max loss USD: -1.862293 Max loss BTC: 3.84583
+Gain Count: 29 Loss Count: 1 Fail Rate: 3
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.86 
+
+!!!AUTOTUNE!!!
+Testing: disburse
+>> Attribute value: 0.07087500000000001
+30 turn average: 
+5.4 (USD)
+11.5 (BTC) 
+ Max loss USD: -0.536303 Max loss BTC: 5.29585
+Gain Count: 29 Loss Count: 1 Fail Rate: 3
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -0.536 
+
+!!!AUTOTUNE!!!
+Testing: disburse
+>> Attribute value: 0.06682500000000001
+30 turn average: 
+4.77 (USD)
+10.8 (BTC) 
+ Max loss USD: -0.853696 Max loss BTC: 4.91309
+Gain Count: 27 Loss Count: 3 Fail Rate: 10
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -0.67 
+
+!!!AUTOTUNE!!!
+Testing: disburse
+>> Attribute value: 0.068445
+30 turn average: 
+5.27 (USD)
+11.3 (BTC) 
+ Max loss USD: -1.451539 Max loss BTC: 4.24332
+Gain Count: 27 Loss Count: 3 Fail Rate: 10
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.21 
+
+!!!AUTOTUNE!!!
+Testing: disburse
+>> Attribute value: 0.06876900000000001
+30 turn average: 
+6.1 (USD)
+12.4 (BTC) 
+ Max loss USD: -0.935395 Max loss BTC: 4.82664
+Gain Count: 29 Loss Count: 1 Fail Rate: 3
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -0.935 
+
+!!!AUTOTUNE!!!
+Testing: disburse
+>> Attribute value: 0.06909300000000002
+30 turn average: 
+6.03 (USD)
+12.3 (BTC) 
+ Max loss USD: -2.337561 Max loss BTC: 3.38897
+Gain Count: 28 Loss Count: 2 Fail Rate: 6
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -2.34 
+
+
+Best variable for attribute "disburse" determined: 0.06876900000000001
+Total run time: 239.2403713981310602321173064410686492919921875 (min) / 3.9873 (hrs)
+AI Variables File ID: 4699375666
+
+ *** END AUTOTUNE FOR ATTRIBUTE *** 
+

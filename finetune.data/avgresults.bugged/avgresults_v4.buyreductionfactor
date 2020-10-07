@@ -1,0 +1,61 @@
+
+
+ *** BEGIN AUTOTUNE FOR ATTRIBUTE buyreductionfactor *** 
+
+!!!AUTOTUNE!!!
+Testing: buyreductionfactor
+>> Attribute value: 1
+30 turn average: 
+5.73 (USD)
+11.8 (BTC) 
+ Max loss USD: -1.352736 Max loss BTC: 4.43154
+Gain Count: 28 Loss Count: 2 Fail Rate: 6
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.35 
+
+!!!AUTOTUNE!!!
+Testing: buyreductionfactor
+>> Attribute value: 1.2
+30 turn average: 
+5.33 (USD)
+11.4 (BTC) 
+ Max loss USD: -0.099364 Max loss BTC: 5.71130
+Gain Count: 29 Loss Count: 1 Fail Rate: 3
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -0.0994 
+
+!!!AUTOTUNE!!!
+Testing: buyreductionfactor
+>> Attribute value: 0.7999999999999999
+30 turn average: 
+5.03 (USD)
+11.3 (BTC) 
+ Max loss USD: -2.389991 Max loss BTC: 3.28744
+Gain Count: 27 Loss Count: 3 Fail Rate: 10
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -2.39 
+
+!!!AUTOTUNE!!!
+Testing: buyreductionfactor
+>> Attribute value: 0.8799999999999999
+30 turn average: 
+5.33 (USD)
+11.5 (BTC) 
+ Max loss USD: -1.653715 Max loss BTC: 4.11292
+Gain Count: 27 Loss Count: 3 Fail Rate: 10
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.42 
+
+!!!AUTOTUNE!!!
+Testing: buyreductionfactor
+>> Attribute value: 0.8959999999999999
+30 turn average: 
+4.57 (USD)
+10.7 (BTC) 
+ Max loss USD: -1.539826 Max loss BTC: 4.23348
+Gain Count: 26 Loss Count: 4 Fail Rate: 13
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.54 
+
+
+Best variable for attribute "buyreductionfactor" determined: 1
+Total run time: 128.975499653816228828873136080801486968994140625 (min) / 2.1496 (hrs)
+AI Variables File ID: 1354615061
+
+ *** END AUTOTUNE FOR ATTRIBUTE *** 
+

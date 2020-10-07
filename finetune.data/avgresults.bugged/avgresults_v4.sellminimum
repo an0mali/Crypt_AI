@@ -1,0 +1,101 @@
+
+
+ *** BEGIN AUTOTUNE FOR ATTRIBUTE sellminimum *** 
+
+!!!AUTOTUNE!!!
+Testing: sellminimum
+>> Attribute value: 0.002
+30 turn average: 
+4.5 (USD)
+10.5 (BTC) 
+ Max loss USD: 0.27903 Max loss BTC: 6.11170
+Gain Count: 30 Loss Count: 0 Fail Rate: 0
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: 0 
+
+!!!AUTOTUNE!!!
+Testing: sellminimum
+>> Attribute value: 0.0024000000000000002
+30 turn average: 
+5.27 (USD)
+11.4 (BTC) 
+ Max loss USD: -1.318311 Max loss BTC: 4.46799
+Gain Count: 28 Loss Count: 2 Fail Rate: 6
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.00 
+
+!!!AUTOTUNE!!!
+Testing: sellminimum
+>> Attribute value: 0.0028000000000000004
+30 turn average: 
+4.27 (USD)
+10.4 (BTC) 
+ Max loss USD: -2.710905 Max loss BTC: 2.94786
+Gain Count: 25 Loss Count: 5 Fail Rate: 16
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.69 
+
+!!!AUTOTUNE!!!
+Testing: sellminimum
+>> Attribute value: 0.0026400000000000004
+30 turn average: 
+4.37 (USD)
+10.4 (BTC) 
+ Max loss USD: -3.188082 Max loss BTC: 2.48858
+Gain Count: 27 Loss Count: 3 Fail Rate: 10
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -2.56 
+
+!!!AUTOTUNE!!!
+Testing: sellminimum
+>> Attribute value: 0.0026080000000000005
+30 turn average: 
+5.43 (USD)
+11.5 (BTC) 
+ Max loss USD: -1.539002 Max loss BTC: 4.18792
+Gain Count: 28 Loss Count: 2 Fail Rate: 6
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.54 
+
+!!!AUTOTUNE!!!
+Testing: sellminimum
+>> Attribute value: 0.0025760000000000006
+30 turn average: 
+6.4 (USD)
+12.6 (BTC) 
+ Max loss USD: 0.79084 Max loss BTC: 6.70081
+Gain Count: 30 Loss Count: 0 Fail Rate: 0
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: 0 
+
+!!!AUTOTUNE!!!
+Testing: sellminimum
+>> Attribute value: 0.0025440000000000007
+30 turn average: 
+3.9 (USD)
+9.9 (BTC) 
+ Max loss USD: -5.205535 Max loss BTC: 0.35283
+Gain Count: 26 Loss Count: 4 Fail Rate: 13
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.89 
+
+!!!AUTOTUNE!!!
+Testing: sellminimum
+>> Attribute value: 0.0026080000000000005
+30 turn average: 
+5.73 (USD)
+12.0 (BTC) 
+ Max loss USD: -2.751209 Max loss BTC: 2.95107
+Gain Count: 28 Loss Count: 2 Fail Rate: 6
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -2.75 
+
+!!!AUTOTUNE!!!
+Testing: sellminimum
+>> Attribute value: 0.0026208000000000004
+30 turn average: 
+5.4 (USD)
+11.6 (BTC) 
+ Max loss USD: -3.081016 Max loss BTC: 2.55622
+Gain Count: 26 Loss Count: 4 Fail Rate: 13
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -2.65 
+
+
+Best variable for attribute "sellminimum" determined: 0.0025760000000000006
+Total run time: 218.94440519809722900390625 (min) / 3.6491 (hrs)
+AI Variables File ID: 7884584882
+
+ *** END AUTOTUNE FOR ATTRIBUTE *** 
+

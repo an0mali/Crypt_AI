@@ -1,0 +1,91 @@
+
+
+ *** BEGIN AUTOTUNE FOR ATTRIBUTE preferbuy *** 
+
+!!!AUTOTUNE!!!
+Testing: preferbuy
+>> Attribute value: 0.157856508
+30 turn average: 
+5.87 (USD)
+12.0 (BTC) 
+ Max loss USD: -3.312644 Max loss BTC: 2.31112
+Gain Count: 28 Loss Count: 2 Fail Rate: 6
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.82 
+
+!!!AUTOTUNE!!!
+Testing: preferbuy
+>> Attribute value: 0.1894278096
+30 turn average: 
+5.03 (USD)
+11.1 (BTC) 
+ Max loss USD: -1.510839 Max loss BTC: 4.26417
+Gain Count: 28 Loss Count: 2 Fail Rate: 6
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.51 
+
+!!!AUTOTUNE!!!
+Testing: preferbuy
+>> Attribute value: 0.1262852064
+30 turn average: 
+5.1 (USD)
+11.2 (BTC) 
+ Max loss USD: -1.001647 Max loss BTC: 4.75653
+Gain Count: 28 Loss Count: 2 Fail Rate: 6
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.00 
+
+!!!AUTOTUNE!!!
+Testing: preferbuy
+>> Attribute value: 0.11997094607999999
+30 turn average: 
+5.13 (USD)
+11.3 (BTC) 
+ Max loss USD: -1.472086 Max loss BTC: 4.25873
+Gain Count: 27 Loss Count: 3 Fail Rate: 10
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -0.913 
+
+!!!AUTOTUNE!!!
+Testing: preferbuy
+>> Attribute value: 0.11365668575999999
+30 turn average: 
+5.2 (USD)
+11.4 (BTC) 
+ Max loss USD: -0.386154 Max loss BTC: 5.37027
+Gain Count: 28 Loss Count: 2 Fail Rate: 6
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -0.386 
+
+!!!AUTOTUNE!!!
+Testing: preferbuy
+>> Attribute value: 0.10734242543999999
+30 turn average: 
+4.27 (USD)
+10.4 (BTC) 
+ Max loss USD: -3.006989 Max loss BTC: 2.59799
+Gain Count: 28 Loss Count: 2 Fail Rate: 6
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -2.29 
+
+!!!AUTOTUNE!!!
+Testing: preferbuy
+>> Attribute value: 0.11997094607999999
+30 turn average: 
+4.93 (USD)
+11.1 (BTC) 
+ Max loss USD: -0.170213 Max loss BTC: 5.63633
+Gain Count: 28 Loss Count: 2 Fail Rate: 6
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -0.170 
+
+!!!AUTOTUNE!!!
+Testing: preferbuy
+>> Attribute value: 0.12249665020799999
+30 turn average: 
+5.2 (USD)
+11.3 (BTC) 
+ Max loss USD: 1.41836 Max loss BTC: 7.27907
+Gain Count: 30 Loss Count: 0 Fail Rate: 0
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: 0 
+
+
+Best variable for attribute "preferbuy" determined: 0.157856508
+Total run time: 188.4421995361645940647576935589313507080078125 (min) / 3.1407 (hrs)
+AI Variables File ID: 4610026469
+
+ *** END AUTOTUNE FOR ATTRIBUTE *** 
+

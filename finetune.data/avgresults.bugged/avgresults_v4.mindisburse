@@ -1,0 +1,142 @@
+
+
+ *** BEGIN AUTOTUNE FOR ATTRIBUTE mindisburse *** 
+
+!!!AUTOTUNE!!!
+Testing: mindisburse
+>> Attribute value: 0.03
+40 turn average: 
+5.02 (USD)
+11.1 (BTC) 
+ Max loss USD: -2.815263 Max loss BTC: 2.88326
+Gain Count: 37 Loss Count: 3 Fail Rate: 7
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -2.82 
+
+!!!AUTOTUNE!!!
+Testing: mindisburse
+>> Attribute value: 0.0375
+40 turn average: 
+4.55 (USD)
+10.6 (BTC) 
+ Max loss USD: -5.360044 Max loss BTC: 0.14463
+Gain Count: 35 Loss Count: 5 Fail Rate: 12
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -2.78 
+
+!!!AUTOTUNE!!!
+Testing: mindisburse
+>> Attribute value: 0.0225
+40 turn average: 
+4.02 (USD)
+10.1 (BTC) 
+ Max loss USD: -2.748717 Max loss BTC: 2.87118
+Gain Count: 35 Loss Count: 5 Fail Rate: 12
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.57 
+
+!!!AUTOTUNE!!!
+Testing: mindisburse
+>> Attribute value: 0.02625
+40 turn average: 
+4.42 (USD)
+10.6 (BTC) 
+ Max loss USD: -5.021931 Max loss BTC: 0.54720
+Gain Count: 34 Loss Count: 6 Fail Rate: 15
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -3.22 
+
+!!!AUTOTUNE!!!
+Testing: mindisburse
+>> Attribute value: 0.0271875
+40 turn average: 
+4.08 (USD)
+10.2 (BTC) 
+ Max loss USD: -2.228828 Max loss BTC: 3.45797
+Gain Count: 33 Loss Count: 7 Fail Rate: 17
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.96 
+
+
+Best variable for attribute "mindisburse" determined: 0.03
+Total run time: 177.158515055974334018173976801335811614990234375 (min) / 2.9526 (hrs)
+AI Variables File ID: 6150266681
+
+ *** END AUTOTUNE FOR ATTRIBUTE *** 
+
+
+
+ *** BEGIN AUTOTUNE FOR ATTRIBUTE mindisburse *** 
+
+!!!AUTOTUNE!!!
+Testing: mindisburse
+>> Attribute value: 0.03
+30 turn average: 
+4.17 (USD)
+10.2 (BTC) 
+ Max loss USD: -1.857288 Max loss BTC: 3.81413
+Gain Count: 28 Loss Count: 2 Fail Rate: 6
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.86 
+
+!!!AUTOTUNE!!!
+Testing: mindisburse
+>> Attribute value: 0.036
+30 turn average: 
+4.87 (USD)
+10.9 (BTC) 
+ Max loss USD: -2.937837 Max loss BTC: 2.70772
+Gain Count: 27 Loss Count: 3 Fail Rate: 10
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -2.94 
+
+!!!AUTOTUNE!!!
+Testing: mindisburse
+>> Attribute value: 0.041999999999999996
+30 turn average: 
+4.1 (USD)
+10.2 (BTC) 
+ Max loss USD: -2.500445 Max loss BTC: 3.17056
+Gain Count: 26 Loss Count: 4 Fail Rate: 13
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.50 
+
+!!!AUTOTUNE!!!
+Testing: mindisburse
+>> Attribute value: 0.039599999999999996
+30 turn average: 
+5.53 (USD)
+11.7 (BTC) 
+ Max loss USD: -0.973452 Max loss BTC: 4.83307
+Gain Count: 27 Loss Count: 3 Fail Rate: 10
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -0.973 
+
+!!!AUTOTUNE!!!
+Testing: mindisburse
+>> Attribute value: 0.039119999999999995
+30 turn average: 
+4.87 (USD)
+11.1 (BTC) 
+ Max loss USD: -2.617829 Max loss BTC: 3.09227
+Gain Count: 29 Loss Count: 1 Fail Rate: 3
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -2.62 
+
+!!!AUTOTUNE!!!
+Testing: mindisburse
+>> Attribute value: 0.04008
+30 turn average: 
+5.3 (USD)
+11.6 (BTC) 
+ Max loss USD: -2.077305 Max loss BTC: 3.58140
+Gain Count: 27 Loss Count: 3 Fail Rate: 10
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.22 
+
+!!!AUTOTUNE!!!
+Testing: mindisburse
+>> Attribute value: 0.040271999999999995
+30 turn average: 
+4.43 (USD)
+10.6 (BTC) 
+ Max loss USD: -3.519028 Max loss BTC: 2.05636
+Gain Count: 26 Loss Count: 4 Fail Rate: 13
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -2.23 
+
+
+Best variable for attribute "mindisburse" determined: 0.039599999999999996
+Total run time: 201.93638432423273343374603427946567535400390625 (min) / 3.3656 (hrs)
+AI Variables File ID: 3379515375
+
+ *** END AUTOTUNE FOR ATTRIBUTE *** 
+

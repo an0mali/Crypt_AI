@@ -1,0 +1,61 @@
+
+
+ *** BEGIN AUTOTUNE FOR ATTRIBUTE sellthresh *** 
+
+!!!AUTOTUNE!!!
+Testing: sellthresh
+>> Attribute value: 1.005
+30 turn average: 
+5.87 (USD)
+12 (BTC) 
+ Max loss USD: -2.066116 Max loss BTC: 3.63015
+Gain Count: 28 Loss Count: 2 Fail Rate: 6
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -2.07 
+
+!!!AUTOTUNE!!!
+Testing: sellthresh
+>> Attribute value: 1.206
+30 turn average: 
+5.67 (USD)
+11.8 (BTC) 
+ Max loss USD: -1.572999 Max loss BTC: 4.15195
+Gain Count: 29 Loss Count: 1 Fail Rate: 3
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.57 
+
+!!!AUTOTUNE!!!
+Testing: sellthresh
+>> Attribute value: 0.804
+30 turn average: 
+5.13 (USD)
+11.2 (BTC) 
+ Max loss USD: -1.327806 Max loss BTC: 4.41140
+Gain Count: 28 Loss Count: 2 Fail Rate: 6
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -0.88 
+
+!!!AUTOTUNE!!!
+Testing: sellthresh
+>> Attribute value: 0.8844000000000001
+30 turn average: 
+6.07 (USD)
+12.3 (BTC) 
+ Max loss USD: -0.867535 Max loss BTC: 4.89844
+Gain Count: 29 Loss Count: 1 Fail Rate: 3
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -0.868 
+
+!!!AUTOTUNE!!!
+Testing: sellthresh
+>> Attribute value: 0.9004800000000001
+30 turn average: 
+4.83 (USD)
+10.9 (BTC) 
+ Max loss USD: -1.211942 Max loss BTC: 4.53401
+Gain Count: 27 Loss Count: 3 Fail Rate: 10
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.21 
+
+
+Best variable for attribute "sellthresh" determined: 0.8844000000000001
+Total run time: 129.400960644086211459580226801335811614990234375 (min) / 2.1567 (hrs)
+AI Variables File ID: 7436392966
+
+ *** END AUTOTUNE FOR ATTRIBUTE *** 
+

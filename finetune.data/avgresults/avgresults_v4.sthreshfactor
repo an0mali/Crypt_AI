@@ -1,0 +1,72 @@
+
+
+ *** BEGIN AUTOTUNE FOR ATTRIBUTE sthreshfactor *** 
+
+!!!AUTOTUNE!!!
+Testing: sthreshfactor
+>> Attribute value: 0.07
+50 turn average: 
+-2.84 (USD)
+5.76 (BTC) 
+ Max loss USD: -12.588458 Max loss BTC: -8.236373
+Gain Count: 16 Loss Count: 34 Fail Rate: 68
+Accuracy: +/-0.4% Avg. Fail loss: -11.6 
+
+!!!AUTOTUNE!!!
+Testing: sthreshfactor
+>> Attribute value: 0.10500000000000001
+50 turn average: 
+-6.26 (USD)
+2.8 (BTC) 
+ Max loss USD: -18.632041 Max loss BTC: -13.661220
+Gain Count: 8 Loss Count: 42 Fail Rate: 84
+Accuracy: +/-0.4% Avg. Fail loss: -16.0 
+
+!!!AUTOTUNE!!!
+Testing: sthreshfactor
+>> Attribute value: 0.035
+50 turn average: 
+-4.58 (USD)
+3.48 (BTC) 
+ Max loss USD: -16.443237 Max loss BTC: -7.850217
+Gain Count: 9 Loss Count: 41 Fail Rate: 82
+Accuracy: +/-0.4% Avg. Fail loss: -15.5 
+
+!!!AUTOTUNE!!!
+Testing: sthreshfactor
+>> Attribute value: 0.0175
+50 turn average: 
+-6.36 (USD)
+1.97 (BTC) 
+ Max loss USD: -19.334934 Max loss BTC: -11.864434
+Gain Count: 7 Loss Count: 43 Fail Rate: 86
+Accuracy: +/-0.4% Avg. Fail loss: -15.6 
+
+!!!AUTOTUNE!!!
+Testing: sthreshfactor
+>> Attribute value: 0.052500000000000005
+50 turn average: 
+-3.74 (USD)
+4.52 (BTC) 
+ Max loss USD: -17.867157 Max loss BTC: -13.777890
+Gain Count: 13 Loss Count: 37 Fail Rate: 74
+Accuracy: +/-0.4% Avg. Fail loss: -14 
+
+
+
+ *** BEGIN AUTOTUNE FOR ATTRIBUTE sthreshfactor *** 
+
+
+
+ *** BEGIN AUTOTUNE FOR ATTRIBUTE sthreshfactor *** 
+
+
+Testing: sthreshfactor
+>> Attribute value: 0.08
+50 turn average: 
+-4.7 (USD)
+4.3 (BTC) 
+ Max loss USD: -14.919555 Max loss BTC: -10.580880
+Gain Count: 11 Loss Count: 39 Fail Rate: 78
+Accuracy: +/-0.4% Avg. Fail loss: -13.7 
+

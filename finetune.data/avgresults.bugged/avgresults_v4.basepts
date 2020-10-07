@@ -1,0 +1,61 @@
+
+
+ *** BEGIN AUTOTUNE FOR ATTRIBUTE basepts *** 
+
+!!!AUTOTUNE!!!
+Testing: basepts
+>> Attribute value: 87
+30 turn average: 
+4.97 (USD)
+11.1 (BTC) 
+ Max loss USD: -2.025470 Max loss BTC: 3.67316
+Gain Count: 27 Loss Count: 3 Fail Rate: 10
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.95 
+
+!!!AUTOTUNE!!!
+Testing: basepts
+>> Attribute value: 104.4
+30 turn average: 
+4.27 (USD)
+10.4 (BTC) 
+ Max loss USD: -1.808592 Max loss BTC: 3.94896
+Gain Count: 29 Loss Count: 1 Fail Rate: 3
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.81 
+
+!!!AUTOTUNE!!!
+Testing: basepts
+>> Attribute value: 69.6
+30 turn average: 
+4.8 (USD)
+10.9 (BTC) 
+ Max loss USD: -1.009282 Max loss BTC: 4.79514
+Gain Count: 26 Loss Count: 4 Fail Rate: 13
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -0.88 
+
+!!!AUTOTUNE!!!
+Testing: basepts
+>> Attribute value: 66.11999999999999
+30 turn average: 
+4.57 (USD)
+10.6 (BTC) 
+ Max loss USD: -3.411949 Max loss BTC: 2.20604
+Gain Count: 28 Loss Count: 2 Fail Rate: 6
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -2.91 
+
+!!!AUTOTUNE!!!
+Testing: basepts
+>> Attribute value: 73.07999999999998
+30 turn average: 
+4.37 (USD)
+10.5 (BTC) 
+ Max loss USD: -1.071337 Max loss BTC: 4.68279
+Gain Count: 28 Loss Count: 2 Fail Rate: 6
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.07 
+
+
+Best variable for attribute "basepts" determined: 87
+Total run time: 126.582743263244623221908113919198513031005859375 (min) / 2.1097 (hrs)
+AI Variables File ID: 1419060902
+
+ *** END AUTOTUNE FOR ATTRIBUTE *** 
+

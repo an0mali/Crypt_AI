@@ -1,0 +1,81 @@
+
+
+ *** BEGIN AUTOTUNE FOR ATTRIBUTE usdminimumdisburse *** 
+
+!!!AUTOTUNE!!!
+Testing: usdminimumdisburse
+>> Attribute value: 0.1
+30 turn average: 
+5.47 (USD)
+11.5 (BTC) 
+ Max loss USD: -3.304380 Max loss BTC: 2.28341
+Gain Count: 28 Loss Count: 2 Fail Rate: 6
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -3.30 
+
+!!!AUTOTUNE!!!
+Testing: usdminimumdisburse
+>> Attribute value: 0.12000000000000001
+30 turn average: 
+5.47 (USD)
+11.5 (BTC) 
+ Max loss USD: -3.368054 Max loss BTC: 2.25248
+Gain Count: 28 Loss Count: 2 Fail Rate: 6
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -2.02 
+
+!!!AUTOTUNE!!!
+Testing: usdminimumdisburse
+>> Attribute value: 0.14
+30 turn average: 
+5.07 (USD)
+11.1 (BTC) 
+ Max loss USD: -0.654094 Max loss BTC: 5.12430
+Gain Count: 26 Loss Count: 4 Fail Rate: 13
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -0.415 
+
+!!!AUTOTUNE!!!
+Testing: usdminimumdisburse
+>> Attribute value: 0.132
+30 turn average: 
+6.07 (USD)
+12.2 (BTC) 
+ Max loss USD: 1.57180 Max loss BTC: 7.47966
+Gain Count: 30 Loss Count: 0 Fail Rate: 0
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: 0 
+
+!!!AUTOTUNE!!!
+Testing: usdminimumdisburse
+>> Attribute value: 0.13040000000000002
+30 turn average: 
+5.6 (USD)
+11.7 (BTC) 
+ Max loss USD: -0.638775 Max loss BTC: 5.14051
+Gain Count: 29 Loss Count: 1 Fail Rate: 3
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -0.639 
+
+!!!AUTOTUNE!!!
+Testing: usdminimumdisburse
+>> Attribute value: 0.13360000000000002
+30 turn average: 
+6.27 (USD)
+12.5 (BTC) 
+ Max loss USD: -0.257342 Max loss BTC: 5.59117
+Gain Count: 28 Loss Count: 2 Fail Rate: 6
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -0.134 
+
+!!!AUTOTUNE!!!
+Testing: usdminimumdisburse
+>> Attribute value: 0.13424000000000003
+30 turn average: 
+4.1 (USD)
+10.2 (BTC) 
+ Max loss USD: -3.538856 Max loss BTC: 2.11724
+Gain Count: 29 Loss Count: 1 Fail Rate: 3
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -3.54 
+
+
+Best variable for attribute "usdminimumdisburse" determined: 0.13360000000000002
+Total run time: 178.766000231107085483017726801335811614990234375 (min) / 2.9794 (hrs)
+AI Variables File ID: 9267826762
+
+ *** END AUTOTUNE FOR ATTRIBUTE *** 
+

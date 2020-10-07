@@ -1,0 +1,51 @@
+
+
+ *** BEGIN AUTOTUNE FOR ATTRIBUTE basepenalty *** 
+
+!!!AUTOTUNE!!!
+Testing: basepenalty
+>> Attribute value: 1.0121875
+30 turn average: 
+5.07 (USD)
+11.1 (BTC) 
+ Max loss USD: -2.651314 Max loss BTC: 3.05682
+Gain Count: 27 Loss Count: 3 Fail Rate: 10
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -2.08 
+
+!!!AUTOTUNE!!!
+Testing: basepenalty
+>> Attribute value: 1.214625
+30 turn average: 
+4.7 (USD)
+10.8 (BTC) 
+ Max loss USD: -4.411619 Max loss BTC: 1.19330
+Gain Count: 28 Loss Count: 2 Fail Rate: 6
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -4.41 
+
+!!!AUTOTUNE!!!
+Testing: basepenalty
+>> Attribute value: 0.80975
+30 turn average: 
+4.7 (USD)
+10.8 (BTC) 
+ Max loss USD: -2.991923 Max loss BTC: 2.65049
+Gain Count: 26 Loss Count: 4 Fail Rate: 13
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -3.0 
+
+!!!AUTOTUNE!!!
+Testing: basepenalty
+>> Attribute value: 0.890725
+30 turn average: 
+4.67 (USD)
+10.7 (BTC) 
+ Max loss USD: -3.308125 Max loss BTC: 2.31590
+Gain Count: 27 Loss Count: 3 Fail Rate: 10
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -2.32 
+
+
+Best variable for attribute "basepenalty" determined: 1.0121875
+Total run time: 101.275977528095239676986238919198513031005859375 (min) / 1.6879 (hrs)
+AI Variables File ID: 2060348026
+
+ *** END AUTOTUNE FOR ATTRIBUTE *** 
+

@@ -1,0 +1,61 @@
+
+
+ *** BEGIN AUTOTUNE FOR ATTRIBUTE growthfactor *** 
+
+!!!AUTOTUNE!!!
+Testing: growthfactor
+>> Attribute value: 1.3
+30 turn average: 
+5.4 (USD)
+11.5 (BTC) 
+ Max loss USD: -2.997376 Max loss BTC: 2.69047
+Gain Count: 29 Loss Count: 1 Fail Rate: 3
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -3.00 
+
+!!!AUTOTUNE!!!
+Testing: growthfactor
+>> Attribute value: 1.56
+30 turn average: 
+4.9 (USD)
+11.0 (BTC) 
+ Max loss USD: -3.755068 Max loss BTC: 1.88835
+Gain Count: 29 Loss Count: 1 Fail Rate: 3
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -3.76 
+
+!!!AUTOTUNE!!!
+Testing: growthfactor
+>> Attribute value: 1.04
+30 turn average: 
+4.6 (USD)
+10.8 (BTC) 
+ Max loss USD: -4.056266 Max loss BTC: 1.52424
+Gain Count: 26 Loss Count: 4 Fail Rate: 13
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -2.05 
+
+!!!AUTOTUNE!!!
+Testing: growthfactor
+>> Attribute value: 1.1440000000000001
+30 turn average: 
+5.8 (USD)
+11.9 (BTC) 
+ Max loss USD: 0.10193 Max loss BTC: 5.92430
+Gain Count: 30 Loss Count: 0 Fail Rate: 0
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: 0 
+
+!!!AUTOTUNE!!!
+Testing: growthfactor
+>> Attribute value: 1.1648
+30 turn average: 
+4.47 (USD)
+10.6 (BTC) 
+ Max loss USD: -3.747424 Max loss BTC: 1.85105
+Gain Count: 29 Loss Count: 1 Fail Rate: 3
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -3.75 
+
+
+Best variable for attribute "growthfactor" determined: 1.1440000000000001
+Total run time: 124.827185658613842633712920360267162322998046875 (min) / 2.0805 (hrs)
+AI Variables File ID: 231046669
+
+ *** END AUTOTUNE FOR ATTRIBUTE *** 
+

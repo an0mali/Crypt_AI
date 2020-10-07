@@ -1,0 +1,71 @@
+
+
+ *** BEGIN AUTOTUNE FOR ATTRIBUTE targetusdbonus *** 
+
+!!!AUTOTUNE!!!
+Testing: targetusdbonus
+>> Attribute value: 19.864
+30 turn average: 
+4.23 (USD)
+10.3 (BTC) 
+ Max loss USD: -3.409071 Max loss BTC: 2.20908
+Gain Count: 26 Loss Count: 4 Fail Rate: 13
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -3.4 
+
+!!!AUTOTUNE!!!
+Testing: targetusdbonus
+>> Attribute value: 23.8368
+30 turn average: 
+5.4 (USD)
+11.6 (BTC) 
+ Max loss USD: -0.236679 Max loss BTC: 5.61304
+Gain Count: 29 Loss Count: 1 Fail Rate: 3
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -0.237 
+
+!!!AUTOTUNE!!!
+Testing: targetusdbonus
+>> Attribute value: 27.8096
+30 turn average: 
+4.8 (USD)
+11 (BTC) 
+ Max loss USD: -2.785223 Max loss BTC: 2.83257
+Gain Count: 27 Loss Count: 3 Fail Rate: 10
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -2.79 
+
+!!!AUTOTUNE!!!
+Testing: targetusdbonus
+>> Attribute value: 26.22048
+30 turn average: 
+4.63 (USD)
+10.7 (BTC) 
+ Max loss USD: -1.182919 Max loss BTC: 4.56472
+Gain Count: 27 Loss Count: 3 Fail Rate: 10
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.18 
+
+!!!AUTOTUNE!!!
+Testing: targetusdbonus
+>> Attribute value: 26.856128
+30 turn average: 
+5.87 (USD)
+12.0 (BTC) 
+ Max loss USD: -1.372222 Max loss BTC: 4.41091
+Gain Count: 28 Loss Count: 2 Fail Rate: 6
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.37 
+
+!!!AUTOTUNE!!!
+Testing: targetusdbonus
+>> Attribute value: 26.983257599999998
+30 turn average: 
+5.17 (USD)
+11.3 (BTC) 
+ Max loss USD: -1.501627 Max loss BTC: 4.19034
+Gain Count: 29 Loss Count: 1 Fail Rate: 3
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.50 
+
+
+Best variable for attribute "targetusdbonus" determined: 26.856128
+Total run time: 146.406137867768592286665807478129863739013671875 (min) / 2.4401 (hrs)
+AI Variables File ID: 8754538001
+
+ *** END AUTOTUNE FOR ATTRIBUTE *** 
+

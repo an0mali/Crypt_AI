@@ -1,0 +1,81 @@
+
+
+ *** BEGIN AUTOTUNE FOR ATTRIBUTE minimumwait *** 
+
+!!!AUTOTUNE!!!
+Testing: minimumwait
+>> Attribute value: 6.64
+30 turn average: 
+4.87 (USD)
+10.9 (BTC) 
+ Max loss USD: -1.119235 Max loss BTC: 4.67873
+Gain Count: 27 Loss Count: 3 Fail Rate: 10
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -0.917 
+
+!!!AUTOTUNE!!!
+Testing: minimumwait
+>> Attribute value: 7.968
+30 turn average: 
+5.8 (USD)
+11.9 (BTC) 
+ Max loss USD: -0.637955 Max loss BTC: 5.14138
+Gain Count: 28 Loss Count: 2 Fail Rate: 6
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -0.605 
+
+!!!AUTOTUNE!!!
+Testing: minimumwait
+>> Attribute value: 9.296
+30 turn average: 
+5.97 (USD)
+12.1 (BTC) 
+ Max loss USD: -2.048616 Max loss BTC: 3.61174
+Gain Count: 27 Loss Count: 3 Fail Rate: 10
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.74 
+
+!!!AUTOTUNE!!!
+Testing: minimumwait
+>> Attribute value: 9.561599999999999
+30 turn average: 
+4.4 (USD)
+10.5 (BTC) 
+ Max loss USD: -2.582645 Max loss BTC: 3.12952
+Gain Count: 24 Loss Count: 6 Fail Rate: 20
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.45 
+
+!!!AUTOTUNE!!!
+Testing: minimumwait
+>> Attribute value: 9.030399999999998
+30 turn average: 
+4.97 (USD)
+11.0 (BTC) 
+ Max loss USD: -0.800203 Max loss BTC: 4.96969
+Gain Count: 28 Loss Count: 2 Fail Rate: 6
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -0.80 
+
+!!!AUTOTUNE!!!
+Testing: minimumwait
+>> Attribute value: 8.924159999999999
+30 turn average: 
+5.8 (USD)
+12.0 (BTC) 
+ Max loss USD: 1.05776 Max loss BTC: 6.89763
+Gain Count: 30 Loss Count: 0 Fail Rate: 0
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: 0 
+
+!!!AUTOTUNE!!!
+Testing: minimumwait
+>> Attribute value: 8.817919999999999
+30 turn average: 
+5.1 (USD)
+11.2 (BTC) 
+ Max loss USD: -1.013202 Max loss BTC: 4.74430
+Gain Count: 29 Loss Count: 1 Fail Rate: 3
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.01 
+
+
+Best variable for attribute "minimumwait" determined: 9.296
+Total run time: 178.860485688845329832474817521870136260986328125 (min) / 2.9810 (hrs)
+AI Variables File ID: 8907524778
+
+ *** END AUTOTUNE FOR ATTRIBUTE *** 
+

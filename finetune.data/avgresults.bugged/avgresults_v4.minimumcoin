@@ -1,0 +1,71 @@
+
+
+ *** BEGIN AUTOTUNE FOR ATTRIBUTE minimumcoin *** 
+
+!!!AUTOTUNE!!!
+Testing: minimumcoin
+>> Attribute value: 0.0021
+30 turn average: 
+4.73 (USD)
+10.7 (BTC) 
+ Max loss USD: -0.319214 Max loss BTC: 5.47866
+Gain Count: 29 Loss Count: 1 Fail Rate: 3
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -0.319 
+
+!!!AUTOTUNE!!!
+Testing: minimumcoin
+>> Attribute value: 0.0025199999999999997
+30 turn average: 
+5.33 (USD)
+11.6 (BTC) 
+ Max loss USD: -1.177300 Max loss BTC: 4.57066
+Gain Count: 28 Loss Count: 2 Fail Rate: 6
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.18 
+
+!!!AUTOTUNE!!!
+Testing: minimumcoin
+>> Attribute value: 0.00294
+30 turn average: 
+4.53 (USD)
+10.7 (BTC) 
+ Max loss USD: -3.741713 Max loss BTC: 1.85709
+Gain Count: 26 Loss Count: 4 Fail Rate: 13
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.63 
+
+!!!AUTOTUNE!!!
+Testing: minimumcoin
+>> Attribute value: 0.0027719999999999997
+30 turn average: 
+5.8 (USD)
+12 (BTC) 
+ Max loss USD: -1.034298 Max loss BTC: 4.72198
+Gain Count: 29 Loss Count: 1 Fail Rate: 3
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.03 
+
+!!!AUTOTUNE!!!
+Testing: minimumcoin
+>> Attribute value: 0.0027383999999999998
+30 turn average: 
+5.6 (USD)
+11.7 (BTC) 
+ Max loss USD: -0.454055 Max loss BTC: 5.38292
+Gain Count: 29 Loss Count: 1 Fail Rate: 3
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -0.454 
+
+!!!AUTOTUNE!!!
+Testing: minimumcoin
+>> Attribute value: 0.0028055999999999997
+30 turn average: 
+3.8 (USD)
+9.87 (BTC) 
+ Max loss USD: -1.555371 Max loss BTC: 4.17060
+Gain Count: 24 Loss Count: 6 Fail Rate: 20
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.56 
+
+
+Best variable for attribute "minimumcoin" determined: 0.0027719999999999997
+Total run time: 150.468533261617011476118932478129863739013671875 (min) / 2.5078 (hrs)
+AI Variables File ID: 1651579683
+
+ *** END AUTOTUNE FOR ATTRIBUTE *** 
+

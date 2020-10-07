@@ -1,0 +1,71 @@
+
+
+ *** BEGIN AUTOTUNE FOR ATTRIBUTE actdisbursethresh *** 
+
+!!!AUTOTUNE!!!
+Testing: actdisbursethresh
+>> Attribute value: 0.4781
+30 turn average: 
+4.83 (USD)
+10.9 (BTC) 
+ Max loss USD: -2.509950 Max loss BTC: 3.16050
+Gain Count: 28 Loss Count: 2 Fail Rate: 6
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -2.51 
+
+!!!AUTOTUNE!!!
+Testing: actdisbursethresh
+>> Attribute value: 0.57372
+30 turn average: 
+5.53 (USD)
+11.7 (BTC) 
+ Max loss USD: -0.730968 Max loss BTC: 5.04295
+Gain Count: 29 Loss Count: 1 Fail Rate: 3
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -0.731 
+
+!!!AUTOTUNE!!!
+Testing: actdisbursethresh
+>> Attribute value: 0.66934
+30 turn average: 
+5.43 (USD)
+11.6 (BTC) 
+ Max loss USD: -1.042891 Max loss BTC: 4.71289
+Gain Count: 27 Loss Count: 3 Fail Rate: 10
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.04 
+
+!!!AUTOTUNE!!!
+Testing: actdisbursethresh
+>> Attribute value: 0.631092
+30 turn average: 
+5.1 (USD)
+11.2 (BTC) 
+ Max loss USD: -1.708289 Max loss BTC: 4.05514
+Gain Count: 29 Loss Count: 1 Fail Rate: 3
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.71 
+
+!!!AUTOTUNE!!!
+Testing: actdisbursethresh
+>> Attribute value: 0.6463911999999999
+30 turn average: 
+5.47 (USD)
+11.7 (BTC) 
+ Max loss USD: -0.259575 Max loss BTC: 5.58880
+Gain Count: 29 Loss Count: 1 Fail Rate: 3
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -0.260 
+
+!!!AUTOTUNE!!!
+Testing: actdisbursethresh
+>> Attribute value: 0.64945104
+30 turn average: 
+5.1 (USD)
+11.2 (BTC) 
+ Max loss USD: -2.193783 Max loss BTC: 3.49506
+Gain Count: 28 Loss Count: 2 Fail Rate: 6
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.56 
+
+
+Best variable for attribute "actdisbursethresh" determined: 0.57372
+Total run time: 168.99177360137304049203521572053432464599609375 (min) / 2.8165 (hrs)
+AI Variables File ID: 1479924998
+
+ *** END AUTOTUNE FOR ATTRIBUTE *** 
+

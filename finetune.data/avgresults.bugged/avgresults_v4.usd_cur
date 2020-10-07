@@ -1,0 +1,60 @@
+**KEYBOARD INTERRUPT**
+Testing: usd_cur
+>> Attribute value: 1000.0
+150 turn average: 
+-1.40 (USD)
+4.38 (BTC) 
+ Max loss USD: -1.398986 Max loss BTC: 4.38258
+Gain Count: 0 Loss Count: 1 Fail Rate: 100
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.40 
+
+**KEYBOARD INTERRUPT**
+Testing: usd_cur
+>> Attribute value: 1000.0
+150 turn average: 
+2.14 (USD)
+8.08 (BTC) 
+ Max loss USD: -1.317412 Max loss BTC: 4.46894
+Gain Count: 6 Loss Count: 2 Fail Rate: 25
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.32 
+
+**KEYBOARD INTERRUPT**
+Testing: usd_cur
+>> Attribute value: 1000.0
+150 turn average: 
+2.90 (USD)
+8.85 (BTC) 
+ Max loss USD: -0.791914 Max loss BTC: 4.97846
+Gain Count: 19 Loss Count: 1 Fail Rate: 5
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -0.792 
+
+**KEYBOARD INTERRUPT**
+Testing: usd_cur
+>> Attribute value: 1000.0
+150 turn average: 
+2.92 (USD)
+8.95 (BTC) 
+ Max loss USD: -0.583649 Max loss BTC: 5.19884
+Gain Count: 3 Loss Count: 1 Fail Rate: 25
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -0.584 
+
+**KEYBOARD INTERRUPT**
+Testing: usd_cur
+>> Attribute value: 1000.0
+150 turn average: 
+-0.293 (USD)
+5.51 (BTC) 
+ Max loss USD: -0.293187 Max loss BTC: 5.50620
+Gain Count: 0 Loss Count: 1 Fail Rate: 100
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -0.293 
+
+**KEYBOARD INTERRUPT**
+Testing: usd_cur
+>> Attribute value: 1000.0
+150 turn average: 
+5.41 (USD)
+11.6 (BTC) 
+ Max loss USD: -0.952125 Max loss BTC: 4.80893
+Gain Count: 36 Loss Count: 1 Fail Rate: 2
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -0.952 
+

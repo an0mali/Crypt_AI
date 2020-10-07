@@ -1,0 +1,71 @@
+
+
+ *** BEGIN AUTOTUNE FOR ATTRIBUTE basewait *** 
+
+!!!AUTOTUNE!!!
+Testing: basewait
+>> Attribute value: 72.1
+30 turn average: 
+3.73 (USD)
+9.73 (BTC) 
+ Max loss USD: -3.491013 Max loss BTC: 2.16789
+Gain Count: 24 Loss Count: 6 Fail Rate: 20
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -2.93 
+
+!!!AUTOTUNE!!!
+Testing: basewait
+>> Attribute value: 86.52
+30 turn average: 
+4.5 (USD)
+10.6 (BTC) 
+ Max loss USD: 0.10898 Max loss BTC: 5.93176
+Gain Count: 30 Loss Count: 0 Fail Rate: 0
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: 0 
+
+!!!AUTOTUNE!!!
+Testing: basewait
+>> Attribute value: 100.94
+30 turn average: 
+6.57 (USD)
+12.9 (BTC) 
+ Max loss USD: -0.539673 Max loss BTC: 5.24538
+Gain Count: 29 Loss Count: 1 Fail Rate: 3
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -0.540 
+
+!!!AUTOTUNE!!!
+Testing: basewait
+>> Attribute value: 103.824
+30 turn average: 
+6.13 (USD)
+12.4 (BTC) 
+ Max loss USD: -0.334235 Max loss BTC: 5.46276
+Gain Count: 29 Loss Count: 1 Fail Rate: 3
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -0.334 
+
+!!!AUTOTUNE!!!
+Testing: basewait
+>> Attribute value: 98.056
+30 turn average: 
+5.53 (USD)
+11.7 (BTC) 
+ Max loss USD: -1.719284 Max loss BTC: 3.96011
+Gain Count: 28 Loss Count: 2 Fail Rate: 6
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.72 
+
+!!!AUTOTUNE!!!
+Testing: basewait
+>> Attribute value: 100.36319999999999
+30 turn average: 
+4.4 (USD)
+10.5 (BTC) 
+ Max loss USD: -5.041407 Max loss BTC: 0.48180
+Gain Count: 26 Loss Count: 4 Fail Rate: 13
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -4.0 
+
+
+Best variable for attribute "basewait" determined: 100.94
+Total run time: 148.305441637833922641220851801335811614990234375 (min) / 2.4718 (hrs)
+AI Variables File ID: 6030990368
+
+ *** END AUTOTUNE FOR ATTRIBUTE *** 
+

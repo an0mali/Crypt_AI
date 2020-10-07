@@ -1,0 +1,71 @@
+
+
+ *** BEGIN AUTOTUNE FOR ATTRIBUTE correlatebonus *** 
+
+!!!AUTOTUNE!!!
+Testing: correlatebonus
+>> Attribute value: 2.8
+30 turn average: 
+4.53 (USD)
+10.7 (BTC) 
+ Max loss USD: -4.721906 Max loss BTC: 0.86482
+Gain Count: 27 Loss Count: 3 Fail Rate: 10
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -2.60 
+
+!!!AUTOTUNE!!!
+Testing: correlatebonus
+>> Attribute value: 3.36
+30 turn average: 
+4.77 (USD)
+10.8 (BTC) 
+ Max loss USD: -1.018694 Max loss BTC: 4.78517
+Gain Count: 29 Loss Count: 1 Fail Rate: 3
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.02 
+
+!!!AUTOTUNE!!!
+Testing: correlatebonus
+>> Attribute value: 3.92
+30 turn average: 
+5.93 (USD)
+12.1 (BTC) 
+ Max loss USD: -4.253148 Max loss BTC: 1.27982
+Gain Count: 28 Loss Count: 2 Fail Rate: 6
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -4.25 
+
+!!!AUTOTUNE!!!
+Testing: correlatebonus
+>> Attribute value: 4.032
+30 turn average: 
+4.97 (USD)
+11.2 (BTC) 
+ Max loss USD: -2.912328 Max loss BTC: 2.73472
+Gain Count: 28 Loss Count: 2 Fail Rate: 6
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.58 
+
+!!!AUTOTUNE!!!
+Testing: correlatebonus
+>> Attribute value: 3.808
+30 turn average: 
+5.17 (USD)
+11.3 (BTC) 
+ Max loss USD: -2.543409 Max loss BTC: 3.12509
+Gain Count: 27 Loss Count: 3 Fail Rate: 10
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -2.54 
+
+!!!AUTOTUNE!!!
+Testing: correlatebonus
+>> Attribute value: 3.7632
+30 turn average: 
+4.37 (USD)
+10.4 (BTC) 
+ Max loss USD: -1.434778 Max loss BTC: 4.29821
+Gain Count: 26 Loss Count: 4 Fail Rate: 13
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.06 
+
+
+Best variable for attribute "correlatebonus" determined: 3.92
+Total run time: 146.92702739238740150540252216160297393798828125 (min) / 2.4488 (hrs)
+AI Variables File ID: 2438750852
+
+ *** END AUTOTUNE FOR ATTRIBUTE *** 
+

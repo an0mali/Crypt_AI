@@ -1,0 +1,61 @@
+
+
+ *** BEGIN AUTOTUNE FOR ATTRIBUTE waitdisbursethresh *** 
+
+!!!AUTOTUNE!!!
+Testing: waitdisbursethresh
+>> Attribute value: 0.78
+30 turn average: 
+6.27 (USD)
+12.5 (BTC) 
+ Max loss USD: -2.065704 Max loss BTC: 3.63058
+Gain Count: 27 Loss Count: 3 Fail Rate: 10
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.33 
+
+!!!AUTOTUNE!!!
+Testing: waitdisbursethresh
+>> Attribute value: 0.936
+30 turn average: 
+5.67 (USD)
+11.9 (BTC) 
+ Max loss USD: -0.188316 Max loss BTC: 5.66424
+Gain Count: 29 Loss Count: 1 Fail Rate: 3
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -0.188 
+
+!!!AUTOTUNE!!!
+Testing: waitdisbursethresh
+>> Attribute value: 0.624
+30 turn average: 
+6.23 (USD)
+12.5 (BTC) 
+ Max loss USD: 0.20914 Max loss BTC: 6.08500
+Gain Count: 30 Loss Count: 0 Fail Rate: 0
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: 0 
+
+!!!AUTOTUNE!!!
+Testing: waitdisbursethresh
+>> Attribute value: 0.5928
+30 turn average: 
+5.13 (USD)
+11.2 (BTC) 
+ Max loss USD: -0.759474 Max loss BTC: 5.01279
+Gain Count: 29 Loss Count: 1 Fail Rate: 3
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -0.759 
+
+!!!AUTOTUNE!!!
+Testing: waitdisbursethresh
+>> Attribute value: 0.6552
+30 turn average: 
+4.63 (USD)
+10.8 (BTC) 
+ Max loss USD: -1.273283 Max loss BTC: 4.46910
+Gain Count: 29 Loss Count: 1 Fail Rate: 3
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -1.27 
+
+
+Best variable for attribute "waitdisbursethresh" determined: 0.78
+Total run time: 124.2474637786547333462294773198664188385009765625 (min) / 2.0708 (hrs)
+AI Variables File ID: 167562863
+
+ *** END AUTOTUNE FOR ATTRIBUTE *** 
+

@@ -1,0 +1,101 @@
+
+
+ *** BEGIN AUTOTUNE FOR ATTRIBUTE sellfactor *** 
+
+!!!AUTOTUNE!!!
+Testing: sellfactor
+>> Attribute value: 1.6048
+30 turn average: 
+5.23 (USD)
+11.3 (BTC) 
+ Max loss USD: -3.027177 Max loss BTC: 2.61319
+Gain Count: 28 Loss Count: 2 Fail Rate: 6
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -3.03 
+
+!!!AUTOTUNE!!!
+Testing: sellfactor
+>> Attribute value: 1.92576
+30 turn average: 
+4.53 (USD)
+10.6 (BTC) 
+ Max loss USD: 0.61575 Max loss BTC: 6.46800
+Gain Count: 30 Loss Count: 0 Fail Rate: 0
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: 0 
+
+!!!AUTOTUNE!!!
+Testing: sellfactor
+>> Attribute value: 1.2838399999999999
+30 turn average: 
+5.53 (USD)
+11.7 (BTC) 
+ Max loss USD: -0.258251 Max loss BTC: 5.54317
+Gain Count: 29 Loss Count: 1 Fail Rate: 3
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -0.258 
+
+!!!AUTOTUNE!!!
+Testing: sellfactor
+>> Attribute value: 1.2196479999999998
+30 turn average: 
+5.5 (USD)
+11.6 (BTC) 
+ Max loss USD: -0.022454 Max loss BTC: 5.79268
+Gain Count: 29 Loss Count: 1 Fail Rate: 3
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -0.0225 
+
+!!!AUTOTUNE!!!
+Testing: sellfactor
+>> Attribute value: 1.348032
+30 turn average: 
+5.9 (USD)
+12.0 (BTC) 
+ Max loss USD: -0.571922 Max loss BTC: 5.25814
+Gain Count: 29 Loss Count: 1 Fail Rate: 3
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -0.572 
+
+!!!AUTOTUNE!!!
+Testing: sellfactor
+>> Attribute value: 1.3737088
+30 turn average: 
+6.07 (USD)
+12.2 (BTC) 
+ Max loss USD: 0.87621 Max loss BTC: 6.79118
+Gain Count: 30 Loss Count: 0 Fail Rate: 0
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: 0 
+
+!!!AUTOTUNE!!!
+Testing: sellfactor
+>> Attribute value: 1.3993856
+30 turn average: 
+6.13 (USD)
+12.3 (BTC) 
+ Max loss USD: 0.71702 Max loss BTC: 6.57516
+Gain Count: 30 Loss Count: 0 Fail Rate: 0
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: 0 
+
+!!!AUTOTUNE!!!
+Testing: sellfactor
+>> Attribute value: 1.4250624
+30 turn average: 
+6.57 (USD)
+12.8 (BTC) 
+ Max loss USD: -0.745724 Max loss BTC: 5.07415
+Gain Count: 29 Loss Count: 1 Fail Rate: 3
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -0.746 
+
+!!!AUTOTUNE!!!
+Testing: sellfactor
+>> Attribute value: 1.4507392000000001
+30 turn average: 
+6.43 (USD)
+12.6 (BTC) 
+ Max loss USD: -2.720197 Max loss BTC: 2.98390
+Gain Count: 29 Loss Count: 1 Fail Rate: 3
+Accuracy: +/-0.6666666666666666% Avg. Fail loss: -2.72 
+
+
+Best variable for attribute "sellfactor" determined: 1.4250624
+Total run time: 235.5911991516749139918829314410686492919921875 (min) / 3.9265 (hrs)
+AI Variables File ID: 3670744830
+
+ *** END AUTOTUNE FOR ATTRIBUTE *** 
+
